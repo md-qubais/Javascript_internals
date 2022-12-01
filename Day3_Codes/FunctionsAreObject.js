@@ -15,7 +15,9 @@ function Employee(id, name) {
 
 
 // function object members go to employee
+// acting as an static members in another languages
 Employee.count = 0;
+
 
 // Prototype memebers are only added once;
 Employee.prototype.baseSalary = 50000;
