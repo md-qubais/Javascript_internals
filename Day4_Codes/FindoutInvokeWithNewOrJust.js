@@ -28,3 +28,6 @@ function Employee(id, name) {
 
 // Employee(10, 'mohammed qubasuddin');
 var employee = new Employee(10, 'mohammed qubaisuddin')
+
+// here you can find more about new.target
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target
